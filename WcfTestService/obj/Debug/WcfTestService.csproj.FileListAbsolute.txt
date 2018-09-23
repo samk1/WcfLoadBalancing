@@ -1,0 +1,7 @@
+C:\Users\samk\source\repos\WcfTestService\WcfTestService\bin\WcfTestService.dll.config
+C:\Users\samk\source\repos\WcfTestService\WcfTestService\bin\WcfTestService.dll
+C:\Users\samk\source\repos\WcfTestService\WcfTestService\bin\WcfTestService.pdb
+C:\Users\samk\source\repos\WcfTestService\WcfTestService\obj\Debug\WcfTestService.csprojAssemblyReference.cache
+C:\Users\samk\source\repos\WcfTestService\WcfTestService\obj\Debug\WcfTestService.csproj.CoreCompileInputs.cache
+C:\Users\samk\source\repos\WcfTestService\WcfTestService\obj\Debug\WcfTestService.dll
+C:\Users\samk\source\repos\WcfTestService\WcfTestService\obj\Debug\WcfTestService.pdb

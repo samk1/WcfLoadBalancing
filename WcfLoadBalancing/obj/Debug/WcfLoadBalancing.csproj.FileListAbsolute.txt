@@ -1,0 +1,6 @@
+C:\Users\samk\source\repos\WcfLoadBalancingTestApp\WcfLoadBalancing\bin\Debug\WcfLoadBalancing.dll
+C:\Users\samk\source\repos\WcfLoadBalancingTestApp\WcfLoadBalancing\bin\Debug\WcfLoadBalancing.pdb
+C:\Users\samk\source\repos\WcfLoadBalancingTestApp\WcfLoadBalancing\obj\Debug\WcfLoadBalancing.csprojAssemblyReference.cache
+C:\Users\samk\source\repos\WcfLoadBalancingTestApp\WcfLoadBalancing\obj\Debug\WcfLoadBalancing.csproj.CoreCompileInputs.cache
+C:\Users\samk\source\repos\WcfLoadBalancingTestApp\WcfLoadBalancing\obj\Debug\WcfLoadBalancing.dll
+C:\Users\samk\source\repos\WcfLoadBalancingTestApp\WcfLoadBalancing\obj\Debug\WcfLoadBalancing.pdb

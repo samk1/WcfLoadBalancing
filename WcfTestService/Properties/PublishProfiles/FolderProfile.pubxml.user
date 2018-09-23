@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\TestService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfTestService.dll">
+      <publishTime>09/22/2018 21:22:55</publishTime>
+    </File>
+    <File Include="bin/WcfTestService.pdb">
+      <publishTime>09/22/2018 21:22:55</publishTime>
+    </File>
+    <File Include="TestService.svc">
+      <publishTime>09/22/2018 21:09:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/22/2018 21:18:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
